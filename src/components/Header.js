@@ -1,6 +1,6 @@
 import React from 'react'
 import './Header.css'
-import logo from '../imgs/cage.gif'
+import logo from '../imgs/logoleft.jpg'
 import { connectWallet, getCurrentWalletConnected } from "../utils/interact.js"
 import constants from '../utils/constants'
 import { updateStatus } from '../redux/reducer'
